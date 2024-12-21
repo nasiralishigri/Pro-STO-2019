@@ -30,9 +30,7 @@
     "web3": "^0.20.7"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^2.3.0",
 
-    "express": "^4.21.2",
     "jquery": "^3.3.1",
     "node-gyp": "^5.0.3",
     "nodemon": "^3.1.9",
